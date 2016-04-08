@@ -1,0 +1,13 @@
+c:\users\raj\documents\visual studio 2013\Projects\SageFrame.Framework\SageFrame.Test\obj\Debug\SageFrame.Test.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\bin\Debug\SageFrame.Test.dll
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\bin\Debug\SageFrame.Test.pdb
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\bin\Debug\nunit.framework.dll
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\bin\Debug\SageFrame.Framework.dll
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\bin\Debug\WebDriver.dll
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\bin\Debug\WebDriver.Support.dll
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\bin\Debug\SageFrame.Framework.pdb
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\bin\Debug\nunit.framework.xml
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\bin\Debug\WebDriver.xml
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\bin\Debug\WebDriver.Support.xml
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\obj\Debug\SageFrame.Test.dll
+C:\Users\Raj\Documents\Visual Studio 2013\Projects\SageFrame.Framework\SageFrame.Test\obj\Debug\SageFrame.Test.pdb
